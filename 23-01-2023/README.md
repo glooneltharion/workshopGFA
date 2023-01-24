@@ -106,7 +106,7 @@ class HelloWorld {
         //Citanie Inputov
         
         Scanner s = new Scanner(System.in);
-        /*
+        
         System.out.println("Zadaj svoje meno:");
         String name = s.next();
         System.out.println("Hello " + name);
@@ -122,7 +122,7 @@ class HelloWorld {
         
         System.out.println("Zadaj svoju vysku: ");
         double height = s.nextDouble();
-        System.out.println("Moj vyska je " + height);*/
+        System.out.println("Moj vyska je " + height);
         
         //loop
         // for loop
@@ -169,14 +169,14 @@ class HelloWorld {
             System.out.println("while");
         };
         
-        /*int sum3 = 0;
+        int sum3 = 0;
         int input = 0;
         do{
             input = s.nextInt();
             sum3 += input;
         }while(input != 0);
        
-       System.out.println(sum3); */
+       System.out.println(sum3);
        
        //uhadni cislo
         
