@@ -198,7 +198,7 @@ class HelloWorld {
        //priemer suctu kazdeho 5 cisla od 0 do 100
        sum = 0;
        double count = 0.;
-        for(int k = 0; k <= 100; k += 3){
+        for(int k = 0; k <= 100; k += 5){
                 sum += k;
                 count++;
         }
